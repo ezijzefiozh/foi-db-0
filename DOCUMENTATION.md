@@ -1,4 +1,5 @@
 # Online Store Database
+> This document has been corrected by Claude 5 Sonnet
 
 A small PostgreSQL database for a fictional online store, built for the "Introduction to Databases" course project. It models customers, product categories, products, orders, order lines, and payments.
 
